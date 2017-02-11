@@ -1,4 +1,4 @@
-![](https://www.evernote.com/shard/s443/sh/4602e325-84c3-4119-9e3d-1935f38dadf2/8fb259f7109fadae89298d86e049068e/res/abd8cb0c-b15e-485f-9aad-4b2678dfa0c1/Sem%20t%C3%ADtulo.png?resizeSmall&width=832)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
